@@ -1,0 +1,15 @@
+
+     ***  README -  pd_curses_stuff  *** 
+
+ While poking around with pdspread in curses, I've been creating a few 
+bits and pieces that may be useful for someone else learning curses. 
+
+ Things like how to get the screen to scroll, how to play around with 
+subwindows, how to get things updating in curses..... 
+
+  So, just thought I'd pop these in a separate repo for people to find. 
+ As  usual, all this stuff is "public domain".  
+
+ "Share and enjoy....... "  ;)  
+
+  
